@@ -2,14 +2,12 @@ body {
 	text-align: center;
 	align-content: center;
 	font-family: Arial, sans-serif;
-	color: red;
 }
 
 h1, h2, h3 {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #333;
     margin: 0 auto;
     font-family: Arial, sans-serif;
 }
