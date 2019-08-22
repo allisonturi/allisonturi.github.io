@@ -2,15 +2,11 @@ body {
 	text-align: center;
 	align-content: center;
 	font-family: Arial, sans-serif;
-	color: #176fb8;
+	color: #333;
 }
 
-h1, h2, h3 {
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    margin: 0 auto;
-    font-family: Arial, sans-serif;
+nav {
+	margin-bottom: 30px; 
 }
 
 nav ul {
@@ -19,9 +15,9 @@ nav ul {
 }
 
 nav li {
-    display: inline-block;
-    margin-left: 30px;
-    margin-right: 30px;
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 nav a {
@@ -33,7 +29,99 @@ nav a {
     padding: 15px 20px;
 }
 
-nav a:hover {
-    background: #333;
-    color: white;
+nav li img{
+width: 30%;
+    display: inline-block;
 }
+
+h1, h2, h3 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+p {
+
+	text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+
+}
+
+#intro {
+text-align: center;	
+margin: auto;
+max-width: 900px;
+
+}
+
+#icons {
+max-width: 900px;
+align-content: center;
+margin: auto;
+margin-top: 30px;
+margin-bottom:30px;
+
+}
+
+.icon-third{
+	width: 120px;
+	display: inline-block;
+margin-left: 60px;
+margin-right: 60px;
+}
+
+#about {
+text-align: center;	
+margin: auto;
+max-width: 800px;
+
+}
+#food{
+align-content: center;	
+margin: auto;
+max-width: 990px;
+
+}
+
+.third {
+	width: 300px;
+	display: inline-block;
+    margin: 10px;
+}
+
+#instagram-feed{
+	max-width: 990px;
+}
+.fourth {
+	width: 145px;
+	display: inline-block;
+    margin: 2px;
+}
+
+footer {
+	background-color: #dae1ea;
+	height: 100px;
+	width: 100%;
+}
+
+footer p{
+	padding: 20px;
+}
+
+footer ul{
+	padding: 0;
+    text-align: center;
+}
+
+footer li{
+	  display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
