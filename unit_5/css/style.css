@@ -9,6 +9,7 @@ header {
 	padding-top: 32px;
 	padding-bottom: 64px;
 	background-color: #FFED74;
+	border: 1px black solid;
 }
 
 
@@ -151,6 +152,7 @@ footer {
 	height: 100px;
 	width: 100%;
 	padding: 32px;
+	border: 1px black solid;
 }
 
 
